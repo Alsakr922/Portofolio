@@ -23,7 +23,7 @@ const SectionTwo = () => {
           <input className='border-2 border-main-4  px-5 py-2 rounded-3xl bg-transparent text-main-3 focus:bg-main-4 transition-all text-[18px]' type="number" name="phone" placeholder='Your Phone Number' id="" />
           <textarea className=' col-span-2 border-2 border-main-4  px-5 py-2 rounded-3xl bg-transparent text-main-3 focus:bg-main-4 transition-all text-[18px]' name="messege" id="" cols={30} rows={10} placeholder='Enter You Msg' style={{resize:"none"}}></textarea>
         <Button
-        classes="lg:col-span-1 col-span-2 mt-[10px]"
+        classes="lg:col-span-1 col-span-2 mt-[10px] border-1 border-main-4 px-5 py-2 rounded-3xl hover:bg-main-4 bg-transparent text-main-3"
         type="submit"
         title="Send"
         theme="btn_gray_blue "

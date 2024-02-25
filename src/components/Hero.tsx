@@ -20,7 +20,7 @@ const Hero = () => {
         <div className='py-5 regular-64 text-main-3 capitalize'>
         <span className='regular-64 capitalize'>
           Hi! Im <span className=' text-transparent stroke'>Mohamed</span></span>
-        <span className='lg:absolute md:hidden lg:block hidden water lg:top-[226px] lg:left-[279px] regular-64 text-main-3 capitalize'>
+        <span className='lg:absolute md:hidden lg:block hidden water lg:top-[226px] lg:left-[257px] regular-64 text-main-3 capitalize'>
           Mohamed
             </span>
             <br />

@@ -11,11 +11,26 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Me',
-      'Skills',
-      'Projects',
-      'Privacy Policy',
-      'Contact Me',
+      {
+        title: 'About Me',
+        href:"#home"
+      },
+      {
+        title: 'Skills',
+        href:"#skills"
+      },
+      {
+        title: 'Projects',
+        href:"#projects"
+      },
+      {
+        title: 'Privacy Policy',
+        href:"/"
+      },
+      {
+        title: 'Contact Me',
+        href:"#contact"
+      }
     ],
   },
 ];

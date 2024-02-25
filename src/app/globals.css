@@ -47,10 +47,9 @@ html {
   .btn_gray {
     @apply border-gray-50 bg-gray-50 px-8 py-2 text-white transition-all
   }
-
   .btn_gray:hover {
     @apply border-gray-100 bg-gray-100 px-8 py-2 text-gray-50
-  }
+  }  
 
   .btn_dark_green {
     @apply bg-green-90 px-8 py-2 text-white transition-all hover:bg-black
@@ -196,7 +195,7 @@ body {
 }
 
 .bars a {
-  /* background-image: url(../../public/); */
+  background-image: url(../../public/2.jpeg);
   background-position: center;
   background-size: cover;
 }
